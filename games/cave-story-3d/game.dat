@@ -1,0 +1,19 @@
+title = "Cave Story 3D"
+description = "Remake of Original \"Cave Story\" for 3DS, a Metroidvania game style."
+needs_system_files = false
+needs_shared_font = false
+
+[[releases]]
+title = "0004000000084C00"
+region = "jpn"
+release_date = "2012-07-26"
+
+[[releases]]
+title = "000400000004D200"
+region = "eur"
+release_date = "2012-07-26"
+
+[[releases]]
+title = "000400000004A100"
+region = "usa"
+release_date = "2012-07-26"
